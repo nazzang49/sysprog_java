@@ -9,11 +9,7 @@
 <body>
 
 	<h1>Hello World</h1>
-	<h1>Test</h1>
 	<input type="button" value="클릭" onclick="location.href='http://naver.com'">
-	
-	
-	<h2>변경</h2>
 
 </body>
 </html>
